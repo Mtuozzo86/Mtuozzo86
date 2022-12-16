@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Graduate of Flatiron School, constantly aiming to hone my skill as a software developer.  
+
+Actively learning and practicing, and eager to enter the professional world of development
+
 <!--
 **Mtuozzo86/Mtuozzo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
